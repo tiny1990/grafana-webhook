@@ -2,8 +2,8 @@
 
 #### 启动方式  
     docker run -it -d \
-        -e "SERVICEKEY=823f1602cb589bfc2ff9e9809199ecd5" \
-        -e "SERVERID=9960" -e "SERVERURL=http://gaojing.baidu.com/event/create" \
+        -e "SERVICEKEY=fe4cf32f47cdf07a34895a2e7b6b2460" \
+        -e "SERVERID=9974" -e "SERVERURL=http://gaojing.baidu.com/event/create" \
         -e "ADVERTISEDURL=0.0.0.0:8888" \
         -p 8888:8888 dp-grafana-webhook
 
