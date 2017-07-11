@@ -23,7 +23,7 @@
 
 #### 处理报警
 1. 登陆http://tonggao.baidu.com/console 查看报警描述，定位报警来源；
-2. 接到电话同学首先登陆 http://staging.datapipeline.com:3000/alerting/list 查看报警情况；
+2. 登陆 http://staging.datapipeline.com:3000/alerting/list 查看报警情况；
 3. 修复报警引起的问题；
 4. 登陆http://tonggao.baidu.com/console 将报警标注已解决。
 
